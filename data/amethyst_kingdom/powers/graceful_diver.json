@@ -1,0 +1,25 @@
+{
+	"type": "origins:stacking_status_effect",
+	"min_stacks": 0,
+	"max_stacks": 20,
+	
+	"effects": 
+	[
+	]
+	,
+	
+		"condition": {
+			"type": "origins:or",
+				"conditions": [
+					{
+						"type": "origins:fluid_height",
+						"comparision": ">=",
+						"compare_to": 0.4 
+					
+					},
+					{
+						"type": "origins:in_rain"
+					}
+				]
+		}
+}

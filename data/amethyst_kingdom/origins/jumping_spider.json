@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:master_of_webs",
+		"origins:carnivore",
+		"amethyst_kingdom:haste",
+		"amethyst_kingdom:jump_boost_toggle",
+		"amethyst_kingdom:speed_boost",
+		"amethyst_kingdom:strength",
+		"amethyst_kingdom:web_regen"
+	],
+	"icon": {
+		"item": "minecraft:spider_eye"
+	},
+	"order": 1,
+	"impact": 2
+}
