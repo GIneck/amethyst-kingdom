@@ -3,6 +3,7 @@
     "impact": 1,
     "order": 0,
     "powers": [
+        "origins:aqua_affinity",
         "amethyst_kingdom:graceful_diver",
         "amethyst_kingdom:sunburn",
         "amethyst_kingdom:conduit_recipie"
