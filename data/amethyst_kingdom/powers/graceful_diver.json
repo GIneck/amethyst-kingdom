@@ -5,8 +5,51 @@
 	
 	"effects": 
 	[
-	]
-	,
+		{
+			"effect": "minecraft:dolphins_grace",
+			"amplifier": 2,
+			"show_particles": false,
+			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:regeneration",
+			"show_particles": false,
+			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:water_breathing",
+			"show_particles": false,
+			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:night_vision",
+			"show_particles": false,
+			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:conduit_power",
+			"show_particles": false,
+			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:speed",
+			"amplifier": 1,
+			"show_particles": false,
+			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:haste",
+			"amplifier": 2,
+			"show_particles": false,
+			"show_icon": false
+		}
+	],
 	
 		"condition": {
 			"type": "origins:or",
