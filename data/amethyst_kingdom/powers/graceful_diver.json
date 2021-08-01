@@ -48,21 +48,38 @@
 			"amplifier": 2,
 			"show_particles": false,
 			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:strength",
+			"amplifier": 2,
+			"show_particles": false,
+			"show_icon": false
+		},
+
+		{
+			"effect": "minecraft:jump_boost",
+			"amplifier": 1,
+			"show_particles": false,
+			"show_icon": false
 		}
 	],
 	
-		"condition": {
-			"type": "origins:or",
-				"conditions": [
-					{
-						"type": "origins:fluid_height",
-						"comparision": ">=",
-						"compare_to": 0.4 
-					
-					},
-					{
-						"type": "origins:in_rain"
-					}
-				]
-		}
+	"condition": {
+		"type": "origins:or",
+			"conditions": [
+				{
+					"type": "origins:fluid_height",
+					"comparision": ">=",
+					"compare_to": 0.4 
+				
+				},
+				{
+					"type": "origins:in_rain"
+				}
+			]
+	},
+
+	"name": "Graceful Diver",
+	"description": "Due to your natural affinity for water, you are swift and strong in water"
 }
