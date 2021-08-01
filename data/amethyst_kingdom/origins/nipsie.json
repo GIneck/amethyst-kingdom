@@ -1,3 +1,17 @@
 {
-    
+    "icon": "glow_berries",
+    "impact": 3,
+    "order": 1,
+    "name": "Nipsie",
+    "description": "Tiny miner, almost invisible to other creatures",
+    "powers": [
+        "origins:climbing",
+        "origins:fall_immunity",
+        "amethyst_kingdom:dirt_lover",
+        "amethyst_kingdom:tiny_boi",
+        "amethyst_kingdom:blinding_sunlight",
+        "amethyst_kingdom:powerful_tiny_fists",
+        "amethyst_kingdom:powerful_tiny_feet",
+        "amethyst_kingdom:powerful_tiny_ears"
+    ]
 }
