@@ -1,3 +1,47 @@
 {
-    "type": "origins:multiple"
+    "type": "origins:multiple",
+    
+    "cobble_to_dirt": {
+        "type": "crafting_shapeless",
+        "id": "amethyst_kingdom:cobble_to_dirt",
+        "ingredients": [
+            {
+                "item": "minecraft:cobblestone"
+            }
+        ],
+        "result": {
+            "item": "minecraft:dirt"
+        }
+    },
+
+    "dirt_to_cobble": {
+        "type": "crafting_shapeless",
+        "id": "amethyst_kingdom:dirt_to_cobble",
+        "ingredients": [
+            {
+                "item": "minecraft:dirt"
+            }
+        ],
+        "result": {
+            "item":"minecraft:cobblestone"
+        }
+    },
+
+    "dirt_to_bread": {
+        "type": "crafting_shaped",
+        "id": "amethyst_kingdom:dirt_to_bread",
+        "pattern": [
+            "@@@",
+            "@@@",
+            "@@@"
+        ],
+        "key": {
+            "@": {
+                "item": "minecraft:dirt"
+            }
+        },
+        "result": {
+            "item": "minecraft:bread"
+        }
+    }
 }
