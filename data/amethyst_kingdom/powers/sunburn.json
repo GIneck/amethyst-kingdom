@@ -1,0 +1,8 @@
+{
+    "type": "origins:burn",
+    "condition": "origins:exposed_to_sun",
+    "interval": 400,
+    "burn_duration": 4,
+    "name": "Sunburn",
+    "description": "Due to you spending most of your time underwater, you sunburn easier than most"
+}

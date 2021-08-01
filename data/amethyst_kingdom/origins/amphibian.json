@@ -4,7 +4,7 @@
     "order": 0,
     "powers": [
         "amethyst_kingdom:graceful_diver",
-        "amethyst_kingdom:fire_damage",
+        "amethyst_kingdom:sunburn",
         "amethyst_kingdom:conduit_recipie"
     ],
     "name": "Amphibian",
