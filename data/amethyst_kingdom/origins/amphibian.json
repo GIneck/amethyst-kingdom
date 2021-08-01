@@ -1,0 +1,12 @@
+{
+    "icon": "minecraft:turtle_helmet",
+    "impact": 1,
+    "order": 0,
+    "powers": [
+        "amethyst_kingdom:graceful_diver",
+        "amethyst_kingdom:fire_damage",
+        "amethyst_kingdom:conduit_recipie"
+    ],
+    "name": "Amphibian",
+    "description": "The Denziens of the Water District of the Amethyst Kingdom"
+}
