@@ -16,6 +16,13 @@
             "amplifier": 2,
             "show_particles": false,
             "show_icon": false
+        },
+
+        {
+            "effect":"minecraft:jump_boost",
+            "amplifier": 4,
+            "show_particles": false,
+            "show_icon": false
         }
     ]
     
