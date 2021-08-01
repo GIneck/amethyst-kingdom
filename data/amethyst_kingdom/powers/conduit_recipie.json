@@ -1,0 +1,62 @@
+{
+    "type": "origins:multiple",
+    "name": "Ancient Knowledge",
+    "description": "Due to your ancestors being the creators of the Conduit, you know how to craft the Nautilus Shell, Heart of the Sea, and Prismarine blocks", 
+
+    "craft_nautilus": {
+        "type": "minecraft:crafting_shaped",
+        "id": "amethyst_kingdom:nautilus_shell",
+        "pattern": [
+            "###",
+            "# #",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:prismarine_shard"
+            }
+        },
+        "result": {
+            "item": "minecraft:nautilus_shell"
+        }
+    },
+
+    "craft_heart": {
+        "type": "minecraft:crafting_shapeless",
+        "id": "amethyst_kingdom:heart_of_the_sea",
+        "ingredients": [
+            {
+                "item": "minecraft:diamond"
+            },
+            {
+                "item": "minecraft:water_bucket"
+            }
+        ],
+        "result": {
+            "item": "minecraft:heart_of_the_sea"
+        }
+    },
+
+    "craft_prismarine": {
+        "type": "minecraft:crafting_shaped",
+        "id": "amethyst_kingdom:prismarine",
+        "pattern":
+        [
+            "%^%",
+            "^%^",
+            "%^%"
+        ],
+        "key":{
+            "%": {
+                "item": "minecraft:dirt"
+            },
+            "^": {
+                "item": "minecraft:gravel"
+            }
+        },
+        "result":{
+            "item": "minecraft:prismarine_shard",
+            "count": 8
+        }
+    }
+}
