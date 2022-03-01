@@ -1,0 +1,13 @@
+{
+    "icon": "minecraft:record_cat",
+    "impact": 1,
+    "order": 0,
+    "powers": [
+        "origins:sprint_jump",
+        "origins:fall_immunity",
+        "origins:cat_vision",
+        "origins:scare_creepers"
+    ],
+    "name": "Cheetah",
+    "description": "befastandrun"
+}
