@@ -1,22 +1,16 @@
 # amethyst-kingdom
 A collection of Origins for the Origins mod minecraft
 
-- Nipsie: 
-- Icon: glow_berries
-  - 1/4 block tall
-  - Night vison except for direct sunlight, where blindness is added
-  - Can craft cobble into dirt
-  - Eats dirt
-  - Mines with hands equivalent to a diamond pickaxe
-  - Automatic haste
-  - Speed II at all times
-  - Jump boost
-  - Wall climb
-  - Toggleable invisibility
-  - Glowing applied to other non-nipsies
-  - Passive to monsters
-  - No fall damage
-  - 5 hearts
+- Blendor
+- Icon: Obsidion
+- Combination of Blaze, Enderian, and Phantom
+  - Immune to fire and lava
+  - takes damage from snowballs, potions, and water
+  - can phase with primary key
+  - can throw ender pearls with secondary key
+  - has long arms
+  - hates pumpkins
+
 - Jumping Spider
 - Icon: spider_eye 
   - Wall climb
@@ -40,3 +34,9 @@ A collection of Origins for the Origins mod minecraft
   - Speed in water or rain
   - Regen in water or rain
   - Sunburn over time
+
+- Cheetah
+- Icon: Cat Disc
+- Basically the feline but without the drawbacks
+
+- Nipsie: Incomplete, deprecated

@@ -11,5 +11,7 @@
 		"item": "minecraft:spider_eye"
 	},
 	"order": 1,
-	"impact": 2
+	"impact": 2,
+
+	"description": "a spider that can jump"
 }
