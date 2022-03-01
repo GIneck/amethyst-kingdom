@@ -1,0 +1,8 @@
+{
+  "type": "origins:modify_player_spawn",
+  "dimension": "minecraft:the_end",
+  "structure": "minecraft:endcity",
+  "spawn_strategy": "center",
+  "name": "Ethereal home",
+  "description": "You are an End native, and as such spawn in your home"
+}
