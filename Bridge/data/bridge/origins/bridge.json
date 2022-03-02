@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"bridge:displace",
+		"origins:pumpkin_hate",
+		"origins:ender_particles",
+		"bridge:end_city_spawn",
+		"origins:throw_ender_pearl"
+		
+	],
+	"icon": "minecraft:end_portal_frame",
+	"order": 5,
+	"impact": 3,
+	"name": "The Bridge",
+	"description": "The offspring of a traveller and an enderman and the cousin of the Enderian; it is your birthright and destiny to unite The End and the Overworld"
+}
