@@ -24,6 +24,8 @@
             "show_particles": false,
             "show_icon": false
         }
-    ]
+    ],
+
+    "description": "Spiders are strong relative to their size"
     
 }

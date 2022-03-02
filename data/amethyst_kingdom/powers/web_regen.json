@@ -8,5 +8,6 @@
         "amplifier": 1,
         "show_particles": false,
         "show_icon": false
-    }
+    },
+    "description": "You love your webs, so much so, that you regenrate health from the flies caught"
 }

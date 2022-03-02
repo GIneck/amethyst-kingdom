@@ -2,9 +2,10 @@
   "replace": false,
   "origins": [
     "origins:human",
-    "amethyst_kingdom:blendor",
-    "amethyst_kingdom:jumping_spider",
     "amethyst_kingdom:amphibian",
-    "amethyst_kingdom:cheetah"
-  ]
+    "amethyst_kingdom:blendor",
+    "amethyst_kingdom:bridge",
+    "amethyst_kingdom:cheetah",
+    "amethyst_kingdom:jumping_spider"
+    ]
 }
