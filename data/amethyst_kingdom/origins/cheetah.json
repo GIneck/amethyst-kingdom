@@ -6,7 +6,10 @@
         "origins:scare_creepers",
         "origins:throw_ender_pearl"
     ],
-    "icon": "minecraft:record_cat",
+
+    "icon": {
+        "item": "minecraft:music_disc_cat"
+    },
     "impact": 1,
     "order": 0,
     "name": "Cheetah",
