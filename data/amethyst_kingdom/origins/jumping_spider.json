@@ -12,6 +12,6 @@
 	},
 	"order": 1,
 	"impact": 2,
-
+	"name": "Jumping Spider",
 	"description": "a spider that can jump"
 }

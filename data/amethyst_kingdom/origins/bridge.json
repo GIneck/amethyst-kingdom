@@ -1,9 +1,9 @@
 {
 	"powers": [
-		"bridge:displace",
+		"amethyst_kingdom:displace",
 		"origins:pumpkin_hate",
 		"origins:ender_particles",
-		"bridge:end_city_spawn",
+		"amethyst_kingdom:end_city_spawn",
 		"origins:throw_ender_pearl"
 		
 	],
